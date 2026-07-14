@@ -1,4 +1,4 @@
-# Rosavie (Sapphire Clone) - Full-Stack E-Commerce Web Application
+# Rosavie - Full-Stack E-Commerce Web Application
 
 Welcome to the **Rosavie** project repository! This is a complete, production-ready MERN (MongoDB, Express, React, Node.js) stack e-commerce web application. Built with modern UI/UX principles inspired by premium clothing brands, this project features robust backend security, stateful cart management, and seamless dynamic routing.
 
